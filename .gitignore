@@ -2,3 +2,4 @@
 venv
 .botenv
 __pycache__/
+secret_keys.py
