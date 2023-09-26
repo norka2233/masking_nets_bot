@@ -1,3 +1,4 @@
 .idea
 venv
 .botenv
+__pycache__/
